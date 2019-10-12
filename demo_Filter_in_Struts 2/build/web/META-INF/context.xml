@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/demo_Filter_in_Struts_2">
+    <Resource name="DBDatasource" type="javax.sql.DataSource" auth="Container"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://localhost:1433;databaseName=MobileStore"
+              username="sa" password="Pin23181999"/>
+</Context>
